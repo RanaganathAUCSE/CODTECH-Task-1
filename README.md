@@ -1,1 +1,12 @@
-# CODTECH-Task-1
+Name:P.Ranganath
+Company:CODTECH IT SOLUTIONS
+ID:CT6WDS2189
+Domain:UI/UX DESIGN
+
+
+#Project 
+Task 1- PORTFOLIO WEBSITE REDESIGN
+
+
+
+#Technology used:FIGMA 
